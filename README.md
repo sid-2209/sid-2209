@@ -1,5 +1,5 @@
 ### Hi there, I'm Siddhartha Srivastava<br><br>
-I build AI and machine learning systems that enable users to tackle challenges and make data-driven decisions.<br><br>🔭 I’m currently working on Job-Bridge, an AI-powered job board application that leverages Intelligent Document Processing (IDP), NLP, and machine learning to optimize job matching, resume customization, and skill recommendations.
+I build AI/ML systems that enable users to tackle challenges and make data-driven decisions.<br><br>🔭 I’m currently working on 'Job-Bridge' that leverages Intelligent Document Processing (IDP), NLP, and machine learning to optimize job matching, resume customization, and skill recommendations.
 
 
 #### Socials:
